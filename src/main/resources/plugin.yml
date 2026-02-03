@@ -1,0 +1,5 @@
+name: TanksSuperflat
+main: dev.tankpillow.superflat.TanksSuperflat
+version: 1.0
+api-version: 1.21.11
+author: tankpillow

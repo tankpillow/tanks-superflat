@@ -1,0 +1,6 @@
+###################
+#  CHAT SETTINGS  #
+###################
+chat-settings:
+  prefix: "&8[&aSuperflat&8] &7» &r"
+  
